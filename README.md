@@ -35,7 +35,6 @@ Logic analyst, Game Dev enthusiast, and programmer focused on creating custom so
 ---
 
 ### 📫 How to reach me:
-### 📫 How to reach me:
 - 💬 **Discord:** `dgamer.`
 > [!WARNING]  
 > Yes, the dot `.` at the end of my Discord username is **NOT** a typo. It's actually part of the name. Don't ghost yourself by copy-pasting it wrong! ;-;
